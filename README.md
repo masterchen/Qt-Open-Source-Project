@@ -2,6 +2,30 @@
 
 [EasyPaint](https://github.com/wangyangyangisme/EasyPaint) 类似画图软件
 
+
+
+# [Qt官方]
+
+[qt-solutions](https://github.com/wangyangyangisme/qt-solutions)
+
+qtbrowserplugin
+
+qtlockedfile
+
+qtpropertybrowser
+
+qtscriptclassic 
+
+qtservice 
+
+qtsingleapplication 
+
+qtsoap 
+
+qtwinmigrate
+
+
+
 # [图形视图框架]
 
 [Qt_QGraphicsItem_DrawSystem](https://github.com/wangyangyangisme/Qt_QGraphicsItem_DrawSystem) dmeo
@@ -14,6 +38,12 @@
 
 [qdraw](https://github.com/wangyangyangisme/qdraw) Qt QGraphicsView drawing demo 
 
+[nodeeditor](https://github.com/wangyangyangisme/nodeeditor) 基于graphics数据流编程框架
+
+
+
+
+
 # [libgitlmvc]
 
 [libgitlmvc](https://github.com/wangyangyangisme/libgitlmvc)
@@ -21,6 +51,8 @@
 [libgitlevtbus](https://github.com/wangyangyangisme/libgitlevtbus)
 
 [libgitlmvc_merge](https://github.com/wangyangyangisme/libgitlmvc_merge)  将libgitlmvc和libgitlevtbus整合在一起 
+
+[GitlHEVCAnalyzer](https://github.com/wangyangyangisme/GitlHEVCAnalyzer) 流分析
 
 # [PureMVC]
 
@@ -72,7 +104,7 @@
 
 [streamWorld](https://github.com/wangyangyangisme/streamWorld)  vlc播放器
 
-
+[shotcut](https://github.com/wangyangyangisme/shotcut) 跨平台视频编辑器
 
 
 
@@ -98,6 +130,8 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [qgroundcontrol](https://github.com/wangyangyangisme/qgroundcontrol) 飞行器地面站
 
+[apm_planner](https://github.com/wangyangyangisme/apm_planner) 飞行器地面站
+
 [youker-assistant](https://github.com/wangyangyangisme/youker-assistant) UbuntuKylin下类似于360的软件
 
 [kylin-video](https://github.com/wangyangyangisme/kylin-video) UbuntuKylin下视频播放器
@@ -105,6 +139,20 @@ https://ftp.gnu.org/gnu/octave/windows/
 [simECG](https://github.com/wangyangyangisme/simECG) 心电图
 
 [qmotion](https://github.com/wangyangyangisme/qmotion) 运动检测
+
+[3drepogui](https://github.com/wangyangyangisme/3drepogui)
+
+[Candle](https://github.com/wangyangyangisme/Candle) G代码编译和运动控制器 雕刻机控制
+
+[Clementine](https://github.com/wangyangyangisme/Clementine) 音乐播放器
+
+[cutter](https://github.com/wangyangyangisme/cutter) （[radare2](https://github.com/wangyangyangisme/radare2)）反编译类似ida
+
+[CuteMarkEd](https://github.com/wangyangyangisme/CuteMarkEd) markdown编辑器
+
+[Editor-Qt](https://github.com/wangyangyangisme/Editor-Qt) RPG游戏编辑器
+
+
 
 
 
