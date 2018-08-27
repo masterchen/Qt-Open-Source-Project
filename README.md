@@ -40,7 +40,11 @@ qtwinmigrate
 
 [nodeeditor](https://github.com/wangyangyangisme/nodeeditor) 基于graphics数据流编程框架
 
+[qt5-node-editor](https://github.com/rochus/qt5-node-editor) 和nodeeditor有点一样
 
+[ZodiacGraph](https://github.com/wangyangyangisme/ZodiacGraph)
+
+[qgv](https://github.com/wangyangyangisme/qgv) Interactive Qt graphViz display 
 
 
 
@@ -76,7 +80,7 @@ qtwinmigrate
 
 [indigoDock](https://github.com/wangyangyangisme/indigoDock) 界面炫酷 推荐
 
-
+[toolwindowmanager](https://github.com/wangyangyangisme/toolwindowmanager) Qt based tool window manager 
 
 # [MdiWidget]
 
@@ -87,6 +91,14 @@ qtwinmigrate
 # [界面框架]
 
 [QFramer](https://github.com/wangyangyangisme/QFramer) 基于Qt5.3的快速开发框架
+
+[WidgetAnimationFramework](https://github.com/wangyangyangisme/WidgetAnimationFramework) 类似app侧拉窗口
+
+[QtFirebase](https://github.com/wangyangyangisme/QtFirebase)  Google's Firebase C++ API to Qt + QML 
+
+
+
+
 
 # [信号处理]
 
@@ -106,6 +118,18 @@ qtwinmigrate
 
 [shotcut](https://github.com/wangyangyangisme/shotcut) 跨平台视频编辑器
 
+[QtVlc](https://github.com/wangyangyangisme/QtVlc) C++ libvlc bindings featuring Qt5 
+
+[QtVLCPlayer](https://github.com/wangyangyangisme/QtVLCPlayer)
+
+[vlc](https://github.com/wangyangyangisme/vlc) VLC media player 
+
+[qt-gstreamer](https://github.com/wangyangyangisme/qt-gstreamer) Qt bindings for GStreamer 
+
+[vlc-qt](https://github.com/wangyangyangisme/vlc-qt) VLC-Qt - a simple library to connect Qt application with libVLC 
+
+[qtractor](https://github.com/wangyangyangisme/qtractor) An Audio/MIDI multi-track sequencer 
+
 
 
 # [octave]
@@ -114,11 +138,29 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 
 
-# [QtWebApp]
+# [网络]
 
 [QtWebApp](http://www.stefanfrings.de/qtwebapp/index-en.html ) 基于Qt的小型服务器
 
 [QtWebAppExample](https://github.com/wangyangyangisme/QtWebAppExample)
+
+[zpserver](https://github.com/wangyangyangisme/zpserver)  a Qt based tcp-ip c/s frame work
+
+[QtRpc2](https://github.com/wangyangyangisme/QtRpc2)
+
+[qtcurl](https://github.com/wangyangyangisme/qtcurl)
+
+[QtSocketIo](https://github.com/wangyangyangisme/QtSocketIo)
+
+[pillow](https://github.com/wangyangyangisme/pillow) Small, light and fluffy Qt Http Server 
+
+[qhttpengine](https://github.com/wangyangyangisme/qhttpengine) HTTP server for Qt applications 
+
+[telegram-qt](https://github.com/wangyangyangisme/telegram-qt) Qt-based library for Telegram network 
+
+[QtTcpThreadServer](https://github.com/wangyangyangisme/QtTcpThreadServer)
+
+[tufao](https://github.com/wangyangyangisme/tufao) An asynchronous web framework for C++ built on top of Qt 
 
 
 
@@ -152,9 +194,61 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [Editor-Qt](https://github.com/wangyangyangisme/Editor-Qt) RPG游戏编辑器
 
+[LibreCAD](https://github.com/wangyangyangisme/LibreCAD)
+
+[LibreCAD_3](https://github.com/wangyangyangisme/LibreCAD_3)
+
+[qdirstat](https://github.com/wangyangyangisme/qdirstat) Qt-based directory statistics like-linux
+
+[theshell](https://github.com/wangyangyangisme/theshell) Desktop Shell written in Qt 
+
+[qupzilla](https://github.com/wangyangyangisme/qupzilla) 跨平台浏览器
 
 
 
+
+
+# [IDE]
+
+[liteide](https://github.com/wangyangyangisme/liteide) LiteIDE is a simple, open source, cross-platform Go IDE
+
+
+
+# [数据库]
+
+[Nut](https://github.com/wangyangyangisme/Nut)
+
+[qtl](https://github.com/wangyangyangisme/qtl) QTL是一个访问SQL数据库的C++库，目前支持MySQL、SQLite和ODBC 
+
+[QtRedisClient](https://github.com/wangyangyangisme/QtRedisClient) Redis在Qt下的封装 
+
+[QtRedis](https://github.com/wangyangyangisme/QtRedis)
+
+# [日志系统]
+
+[Log4Qt](https://github.com/wangyangyangisme/Log4Qt)
+
+[SimpleQtLogger](https://github.com/wangyangyangisme/SimpleQtLogger)
+
+# [通信]
+
+[LAN_IM](https://github.com/wangyangyangisme/LAN_IM) QT4开发 
+
+[QtMail](https://github.com/wangyangyangisme/QtMail)
+
+[QtMqtt](https://github.com/wangyangyangisme/QtMqtt) MQTT protocol 
+
+[SavvyCAN](https://github.com/wangyangyangisme/SavvyCAN) QT based cross platform canbus tool
+
+[SmtpClient-for-Qt](https://github.com/wangyangyangisme/SmtpClient-for-Qt)
+
+[libmaia](https://github.com/wangyangyangisme/libmaia) XML-RPC lib for Qt 
+
+[ProjectTox-Qt-GUI](https://github.com/wangyangyangisme/ProjectTox-Qt-GUI) A cross-platform front end for ProjectTox Core library 
+
+[qmqtt](https://github.com/wangyangyangisme/qmqtt)
+
+[QSsh](https://github.com/wangyangyangisme/QSsh) SSH and SFTP support for Qt 
 
 
 
@@ -170,11 +264,61 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [QtWaitingSpinner](https://github.com/wangyangyangisme/QtWaitingSpinner) 菊花等待控件
 
+[QProgressIndicator](https://github.com/wangyangyangisme/QProgressIndicator) 菊花等待控件
+
 [QRoundProgressBar](https://github.com/wangyangyangisme/QRoundProgressBar) 
 
 [QtCustomProgressbar](https://github.com/wangyangyangisme/QtCustomProgressbar)
 
 [LQFramKit](https://github.com/wangyangyangisme/LQFramKit)Qt封装的一些控件，QCombox选择颜色选项
+
+[FastQt](https://github.com/wangyangyangisme/FastQt) 数据分析控件
+
+[QHexEdit](https://github.com/wangyangyangisme/QHexEdit) 
+
+[QPathEdit](https://github.com/wangyangyangisme/QPathEdit) 文件对话框
+
+[Qt-Inspector](https://github.com/robertknight/Qt-Inspector) 属性编辑
+
+[QtnProperty](https://github.com/wangyangyangisme/QtnProperty) 属性控件
+
+[qt-material-widgets ](https://github.com/wangyangyangisme/qt-material-widgets) [*]
+
+[QtKnobs](https://github.com/wangyangyangisme/QtKnobs) 圆形进度条
+
+[QtAddressBar](https://github.com/wangyangyangisme/QtAddressBar) 资源管理器
+
+
+
+
+
+# [解压缩]
+
+[quazip](https://github.com/wangyangyangisme/quazip) 
+
+
+
+# [加密]
+
+[Qt-AES](https://github.com/wangyangyangisme/Qt-AES)
+
+
+
+
+
+# [文本]
+
+[QtOfficeOpenXml](https://github.com/wangyangyangisme/QtOfficeOpenXml) read and write   such as .xlsx/.docx/.pptx files 
+
+[qtcsv](https://github.com/wangyangyangisme/qtcsv) Library for reading and writing csv-files in Qt
+
+
+
+# [报表]
+
+
+
+
 
 # [功能] 
 
@@ -210,6 +354,54 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [NTP_test](https://github.com/wangyangyangisme/NTP_test) NTP校正事件时间
 
+[flameshot](https://github.com/wangyangyangisme/flameshot) 强大的截屏工具
+
+[libcrashreporter-qt](https://github.com/wangyangyangisme/libcrashreporter-qt) 软件崩溃上报 基于Google Breakpad 
+
+[qBreakpad](https://github.com/wangyangyangisme/qBreakpad) Cross-platform Qt crash handler  Google Breakpad 
+
+
+
+[o2](https://github.com/wangyangyangisme/o2) OAuth 2.0 for Qt 
+
+[qoauth](https://github.com/wangyangyangisme/qoauth)
+
+[QJsonModel](https://github.com/wangyangyangisme/QJsonModel)
+
+[qtlua](https://github.com/wangyangyangisme/qtlua)
+
+[qzxing](https://github.com/wangyangyangisme/qzxing) 二维码编解码
+
+[verdigris ](https://github.com/wangyangyangisme/verdigris)Qt without moc: set of macros to use Qt without needing moc 
+
+[qt-curve-editor](https://github.com/wangyangyangisme/qt-curve-editor) a curve editor widget for Qt with multiple spline types 
+
+[QtCoroutines](https://github.com/wangyangyangisme/QtCoroutines) Helper classes for coroutines in Qt 
+
+[QtAwesome](https://github.com/wangyangyangisme/QtAwesome) Font Awesome support for Qt applications 
+
+[QtBackgroundProcess](https://github.com/wangyangyangisme/QtBackgroundProcess) 创建后台运行程序
+
+[QtAutoUpdater](https://github.com/wangyangyangisme/QtAutoUpdater) 软件检测更新
+
+[QSimpleUpdater](https://github.com/wangyangyangisme/QSimpleUpdater) Updater system for Qt applications 
+
+[qtcreator-doxygen](https://github.com/wangyangyangisme/qtcreator-doxygen) Doxygen Plugin for Qt Creator 
+
+[QtDataSync](https://github.com/wangyangyangisme/QtDataSync) 窗口间的数据同步
+
+[qt-mustache](https://github.com/wangyangyangisme/qt-mustache) Mustache templating library for C++ using Qt 
+
+[qtpdfium](https://github.com/wangyangyangisme/qtpdfium) （ [pdfium](https://github.com/wangyangyangisme/pdfium) ）Pdf Redening on Qt 
+
+[qt-spek](https://github.com/wangyangyangisme/qt-spek) 基于Qt的频谱分析器，修改于spek
+
+[libsystemd-qt](https://github.com/wangyangyangisme/libsystemd-qt) Qt-only wrapper for Systemd DBus API linux
+
+[QtDownloadManager](https://github.com/wangyangyangisme/QtDownloadManager) 断点续传
+
+[QtJsonSerializer](https://github.com/wangyangyangisme/QtJsonSerializer) json数据序列化
+
 
 
 # [输入法]
@@ -220,6 +412,8 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [ChineseInput](https://github.com/wangyangyangisme/ChineseInput)
 
+[libgooglepinyin](https://github.com/wangyangyangisme/libgooglepinyin) 谷歌输入法内核
+
 
 
 # [图形图像]
@@ -227,3 +421,21 @@ https://ftp.gnu.org/gnu/octave/windows/
 [vv](https://github.com/wangyangyangisme/vv) VV医学图像处理使用VTK,ITK
 
 [MITK](https://github.com/wangyangyangisme/MITK) The Medical Imaging Interaction Toolkit.
+
+[QtOpenGL](https://github.com/wangyangyangisme/QtOpenGL)
+
+
+
+# [杂项]
+
+[GraphicsProgramming](https://github.com/wangyangyangisme/GraphicsProgramming) Demos related to OpenGL, Qt and other X technologies.
+
+[qt-ponies](https://github.com/wangyangyangisme/qt-ponies) Desktop ponies in Qt 
+
+[Qtilities](https://github.com/wangyangyangisme/Qtilities)
+
+
+
+# [QtAndroid]
+
+[qtandroidextensions](https://github.com/wangyangyangisme/qtandroidextensions) Qt Android Helpers and Native Views 
