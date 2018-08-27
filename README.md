@@ -46,7 +46,7 @@ qtwinmigrate
 
 [qgv](https://github.com/wangyangyangisme/qgv) Interactive Qt graphViz display 
 
-
+[Heimer](https://github.com/wangyangyangisme/Heimer) cross-platform mind map tool written in Qt 
 
 # [libgitlmvc]
 
@@ -312,9 +312,25 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [qtcsv](https://github.com/wangyangyangisme/qtcsv) Library for reading and writing csv-files in Qt
 
+[QtXlsxWriter](https://github.com/wangyangyangisme/QtXlsxWriter)
 
+[libxlsxwriter](https://github.com/wangyangyangisme/libxlsxwriter) c library
+
+[Qlibxlsxwriter](https://github.com/wangyangyangisme/Qlibxlsxwriter)  is a C library  allows libxlsxwriter to be used in Qt  XLSX files 
+
+[Qxlnt](https://github.com/wangyangyangisme/Qxlnt) xlnt is xlsx library that using C++14 used in Qt
+
+[QXlsx](https://github.com/wangyangyangisme/QXlsx) QXlsx is C++. (with Qt 5.x) 
 
 # [报表]
+
+[QtRptProject](https://github.com/wangyangyangisme/QtRptProject)
+
+[cutereport](https://github.com/wangyangyangisme/cutereport)
+
+[ncreport](https://github.com/wangyangyangisme/ncreport) v0.7.3旧版源码
+
+[LimeReport ](https://github.com/wangyangyangisme/LimeReport) Report generator for Qt Framework 
 
 
 
