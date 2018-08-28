@@ -206,17 +206,25 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 # [数据库]
 
-[Nut](https://github.com/wangyangyangisme/Nut) Orm
+[Nut](https://github.com/wangyangyangisme/Nut) PosgtreSQL, MySQL, SQLite and Microsoft Sql Server
 
-[QxOrm](https://github.com/wangyangyangisme/QxOrm) ([QxEntityEditor](https://github.com/wangyangyangisme/QxEntityEditor)) Orm
+[QxOrm](https://github.com/wangyangyangisme/QxOrm) ([QxEntityEditor](https://github.com/wangyangyangisme/QxEntityEditor)) SQLite, MySQL, PostgreSQL, Oracle and MS SQL Server 
 
-[litesql_qt](https://github.com/wangyangyangisme/litesql_qt) ([litesql](https://github.com/wangyangyangisme/litesql))
+[litesql_qt](https://github.com/wangyangyangisme/litesql_qt) ([litesql](https://github.com/wangyangyangisme/litesql))  SQLite3, PostgreSQL and MySQL
 
+[sqlpp11](https://github.com/wangyangyangisme/sqlpp11) 
 
+[sqlpp11-connector-mysql](https://github.com/wangyangyangisme/sqlpp11-connector-mysql)
 
+[sqlpp11-connector-sqlite3](https://github.com/wangyangyangisme/sqlpp11-connector-sqlite3)
 
+[sqlpp11-connector-postgresql](https://github.com/wangyangyangisme/sqlpp11-connector-postgresql)
 
+[sqlpp17](https://github.com/wangyangyangisme/sqlpp17)
 
+[sqlpp11gen](https://github.com/wangyangyangisme/sqlpp11gen) A c++ table class generator for sqlpp11.
+
+[odb](https://github.com/wangyangyangisme/odb) mssql mysql oracle pgsql sqlite
 
 [qtl](https://github.com/wangyangyangisme/qtl) QTL是一个访问SQL数据库的C++库，目前支持MySQL、SQLite和ODBC 
 
