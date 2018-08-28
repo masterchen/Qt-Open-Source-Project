@@ -48,6 +48,8 @@ qtwinmigrate
 
 [Heimer](https://github.com/wangyangyangisme/Heimer) cross-platform mind map tool written in Qt 
 
+[QTScada](https://github.com/wangyangyangisme/QTScada) 基于QT 的组态软件 
+
 # [libgitlmvc]
 
 [libgitlmvc](https://github.com/wangyangyangisme/libgitlmvc)
@@ -85,6 +87,10 @@ qtwinmigrate
 # [MdiWidget]
 
 
+
+# [UI]
+
+[qt-imitation-360safe](https://github.com/wangyangyangisme/qt-imitation-360safe)
 
 
 
@@ -132,37 +138,21 @@ qtwinmigrate
 
 
 
+[avifile](https://github.com/wangyangyangisme/avifile)
+
+[transcode](https://github.com/wangyangyangisme/transcode)
+
+[AviCombine](https://github.com/wangyangyangisme/AviCombine)
+
+[avilib](https://github.com/wangyangyangisme/avilib)
+
+[avilibs](https://github.com/wangyangyangisme/avilibs)
+
+
+
 # [octave]
 
 https://ftp.gnu.org/gnu/octave/windows/
-
-
-
-# [网络]
-
-[QtWebApp](http://www.stefanfrings.de/qtwebapp/index-en.html ) 基于Qt的小型服务器
-
-[QtWebAppExample](https://github.com/wangyangyangisme/QtWebAppExample)
-
-[zpserver](https://github.com/wangyangyangisme/zpserver)  a Qt based tcp-ip c/s frame work
-
-[QtRpc2](https://github.com/wangyangyangisme/QtRpc2)
-
-[qtcurl](https://github.com/wangyangyangisme/qtcurl)
-
-[QtSocketIo](https://github.com/wangyangyangisme/QtSocketIo)
-
-[pillow](https://github.com/wangyangyangisme/pillow) Small, light and fluffy Qt Http Server 
-
-[qhttpengine](https://github.com/wangyangyangisme/qhttpengine) HTTP server for Qt applications 
-
-[telegram-qt](https://github.com/wangyangyangisme/telegram-qt) Qt-based library for Telegram network 
-
-[QtTcpThreadServer](https://github.com/wangyangyangisme/QtTcpThreadServer)
-
-[tufao](https://github.com/wangyangyangisme/tufao) An asynchronous web framework for C++ built on top of Qt 
-
-
 
 # [项目]
 
@@ -204,7 +194,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [qupzilla](https://github.com/wangyangyangisme/qupzilla) 跨平台浏览器
 
-
+[vpaint](https://github.com/wangyangyangisme/vpaint) 2d动画编辑
 
 
 
@@ -216,7 +206,17 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 # [数据库]
 
-[Nut](https://github.com/wangyangyangisme/Nut)
+[Nut](https://github.com/wangyangyangisme/Nut) Orm
+
+[QxOrm](https://github.com/wangyangyangisme/QxOrm) ([QxEntityEditor](https://github.com/wangyangyangisme/QxEntityEditor)) Orm
+
+[litesql_qt](https://github.com/wangyangyangisme/litesql_qt) ([litesql](https://github.com/wangyangyangisme/litesql))
+
+
+
+
+
+
 
 [qtl](https://github.com/wangyangyangisme/qtl) QTL是一个访问SQL数据库的C++库，目前支持MySQL、SQLite和ODBC 
 
@@ -229,6 +229,34 @@ https://ftp.gnu.org/gnu/octave/windows/
 [Log4Qt](https://github.com/wangyangyangisme/Log4Qt)
 
 [SimpleQtLogger](https://github.com/wangyangyangisme/SimpleQtLogger)
+
+[CuteLogger](https://github.com/wangyangyangisme/CuteLogger)
+
+# [网络]
+
+[QtWebApp](http://www.stefanfrings.de/qtwebapp/index-en.html ) 基于Qt的小型服务器
+
+[QtWebAppExample](https://github.com/wangyangyangisme/QtWebAppExample)
+
+[zpserver](https://github.com/wangyangyangisme/zpserver)  a Qt based tcp-ip c/s frame work
+
+[QtRpc2](https://github.com/wangyangyangisme/QtRpc2)
+
+[qtcurl](https://github.com/wangyangyangisme/qtcurl)
+
+[QtSocketIo](https://github.com/wangyangyangisme/QtSocketIo)
+
+[pillow](https://github.com/wangyangyangisme/pillow) Small, light and fluffy Qt Http Server 
+
+[qhttpengine](https://github.com/wangyangyangisme/qhttpengine) HTTP server for Qt applications 
+
+[telegram-qt](https://github.com/wangyangyangisme/telegram-qt) Qt-based library for Telegram network 
+
+[QtTcpThreadServer](https://github.com/wangyangyangisme/QtTcpThreadServer)
+
+[tufao](https://github.com/wangyangyangisme/tufao) An asynchronous web framework for C++ built on top of Qt 
+
+[QSslChat](https://github.com/wangyangyangisme/QSslChat)
 
 # [通信]
 
@@ -250,7 +278,9 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [QSsh](https://github.com/wangyangyangisme/QSsh) SSH and SFTP support for Qt 
 
+[qTox](https://github.com/wangyangyangisme/qTox) qTox is a chat, voice, video, and file transfer IM client  
 
+[openmeeting2](https://github.com/wangyangyangisme/openmeeting2) 视频会议，仿QQ群视频 实现多人视频，多人语音，文字聊天，表情 
 
 # [控件]
 
@@ -282,7 +312,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [QtnProperty](https://github.com/wangyangyangisme/QtnProperty) 属性控件
 
-[qt-material-widgets ](https://github.com/wangyangyangisme/qt-material-widgets) [*]
+[qt-material-widgets ](https://github.com/wangyangyangisme/qt-material-widgets)			 [*]
 
 [QtKnobs](https://github.com/wangyangyangisme/QtKnobs) 圆形进度条
 
