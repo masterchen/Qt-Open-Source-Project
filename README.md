@@ -136,6 +136,10 @@ qtwinmigrate
 
 [qtractor](https://github.com/wangyangyangisme/qtractor) An Audio/MIDI multi-track sequencer 
 
+[QtAV](https://github.com/wangyangyangisme/QtAV) A cross-platform multimedia framework based on Qt and FFmpeg
+
+
+
 
 
 [avifile](https://github.com/wangyangyangisme/avifile)
@@ -228,6 +232,22 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [qtl](https://github.com/wangyangyangisme/qtl) QTL是一个访问SQL数据库的C++库，目前支持MySQL、SQLite和ODBC 
 
+[tiny-orm](https://github.com/wangyangyangisme/tiny-orm) mysql 
+
+[soci](https://github.com/wangyangyangisme/soci)  DB2 firebird MySQL ODBC Oracle SQLite3 PostgreSQL
+
+[ORM-Lite](https://github.com/wangyangyangisme/ORM-Lite) SQLite3
+
+[libpqxx](https://github.com/wangyangyangisme/libpqxx) The official C++ client API for PostgreSQL
+
+[lmdbxx](https://github.com/wangyangyangisme/lmdbxx) C++11 wrapper for the LMDB embedded B+ tree database library
+
+[matador](https://github.com/wangyangyangisme/matador) SQLite, MySQL and MS SQL Server
+
+[mongo-cxx-driver](https://github.com/wangyangyangisme/mongo-cxx-driver) C++ Driver for MongoDB
+
+
+
 [QtRedisClient](https://github.com/wangyangyangisme/QtRedisClient) Redis在Qt下的封装 
 
 [QtRedis](https://github.com/wangyangyangisme/QtRedis)
@@ -239,6 +259,16 @@ https://ftp.gnu.org/gnu/octave/windows/
 [SimpleQtLogger](https://github.com/wangyangyangisme/SimpleQtLogger)
 
 [CuteLogger](https://github.com/wangyangyangisme/CuteLogger)
+
+[QsLog](https://github.com/wangyangyangisme/QsLog)
+
+[LoggerCpp](https://github.com/wangyangyangisme/LoggerCpp)
+
+
+
+
+
+
 
 # [网络]
 
@@ -290,6 +320,14 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [openmeeting2](https://github.com/wangyangyangisme/openmeeting2) 视频会议，仿QQ群视频 实现多人视频，多人语音，文字聊天，表情 
 
+
+
+[qtLibModbus](https://github.com/wangyangyangisme/qtLibModbus)
+
+[qmodbus](https://github.com/wangyangyangisme/qmodbus)
+
+[libmodbus](https://github.com/wangyangyangisme/libmodbus) c语言
+
 # [控件]
 
 [QFlightInstruments](https://github.com/wangyangyangisme/QFlightInstruments) 飞机仪表盘
@@ -326,21 +364,29 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [QtAddressBar](https://github.com/wangyangyangisme/QtAddressBar) 资源管理器
 
+# [物理]
 
+[Box2D](https://github.com/wangyangyangisme/Box2D)
+
+[qbox2d](https://github.com/wangyangyangisme/qbox2d)
+
+[QBox2D-1](https://github.com/wangyangyangisme/QBox2D-1)
+
+[qbox2dl](https://github.com/wangyangyangisme/qbox2dl)
 
 
 
 # [解压缩]
 
-[quazip](https://github.com/wangyangyangisme/quazip) 
 
 
+[quazip)](https://github.com/wangyangyangisme/quazip)
 
 # [加密]
 
 [Qt-AES](https://github.com/wangyangyangisme/Qt-AES)
 
-
+[cryptopp)](https://github.com/wangyangyangisme/cryptopp)
 
 
 
@@ -359,6 +405,10 @@ https://ftp.gnu.org/gnu/octave/windows/
 [Qxlnt](https://github.com/wangyangyangisme/Qxlnt) xlnt is xlsx library that using C++14 used in Qt
 
 [QXlsx](https://github.com/wangyangyangisme/QXlsx) QXlsx is C++. (with Qt 5.x) 
+
+[QtXMLMap](https://github.com/wangyangyangisme/QtXMLMap) Simple wrap over Qt XML classes for easy working with XML documents.
+
+
 
 # [报表]
 
@@ -425,6 +475,10 @@ https://ftp.gnu.org/gnu/octave/windows/
 [qtlua](https://github.com/wangyangyangisme/qtlua)
 
 [qzxing](https://github.com/wangyangyangisme/qzxing) 二维码编解码
+
+[qtqrencode ](https://github.com/wangyangyangisme/qtqrencode)二维码编解码
+
+[QRScanner](https://github.com/wangyangyangisme/QRScanner) CN1Lib for using ZBar scanning in Android apps.
 
 [verdigris ](https://github.com/wangyangyangisme/verdigris)Qt without moc: set of macros to use Qt without needing moc 
 
