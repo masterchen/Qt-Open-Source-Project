@@ -2,7 +2,83 @@
 
 [EasyPaint](https://github.com/wangyangyangisme/EasyPaint) 类似画图软件
 
+[fjcomm](https://github.com/wangyangyangisme/fjcomm)
 
+
+
+[InternetFashionedInstaller](https://github.com/wangyangyangisme/InternetFashionedInstaller) 打包
+
+# [TTK]
+
+[TTKMusicplayer](https://github.com/wangyangyangisme/TTKMusicplayer)
+
+[qmmp](https://github.com/wangyangyangisme/qmmp)
+
+[TTKWidgetTools](https://github.com/wangyangyangisme/TTKWidgetTools)
+
+[TTKWeather](https://github.com/wangyangyangisme/TTKWeather)
+
+[TTKOCR](https://github.com/wangyangyangisme/TTKOCR)
+
+[TTKDownloader](https://github.com/wangyangyangisme/TTKDownloader)
+
+[TTKChardet](https://github.com/wangyangyangisme/TTKChardet)
+
+[TTKBarrage](https://github.com/wangyangyangisme/TTKBarrage)
+
+[TTKPngHelper](https://github.com/wangyangyangisme/TTKPngHelper)
+
+[TTKDownloadLimit](https://github.com/wangyangyangisme/TTKDownloadLimit)
+
+# []
+
+[QtQuickExamples](https://github.com/wangyangyangisme/QtQuickExamples)
+
+[QtWidgetsExamples)](https://github.com/wangyangyangisme/QtWidgetsExamples)
+
+[QtOtherExamples](https://github.com/wangyangyangisme/QtOtherExamples)
+
+[QtReleaseExamples](https://github.com/wangyangyangisme/QtReleaseExamples)
+
+[QtAndroidExamples](https://github.com/wangyangyangisme/QtAndroidExamples)
+
+# []
+
+[JQCPUMonitor](https://github.com/wangyangyangisme/JQCPUMonitor)
+
+[JQHttpServer](https://github.com/wangyangyangisme/JQHttpServer)
+
+[JQQRCode](https://github.com/wangyangyangisme/JQQRCode)
+
+[JQTools](https://github.com/fly204/JQTools)
+
+[JQNetwork](https://github.com/wangyangyangisme/JQNetwork)
+
+[JQQmlImage](https://github.com/wangyangyangisme/JQQmlImage)
+
+[JQZopfli](https://github.com/wangyangyangisme/JQZopfli)
+
+[JQChecksum](https://github.com/wangyangyangisme/JQChecksum)
+
+[QImagePngHelper](https://github.com/wangyangyangisme/QImagePngHelper)
+
+# []
+
+[NAuth](https://github.com/wangyangyangisme/NAuth)Qt 编写的鉴权流程封装组件
+
+[NBaseUiKit](https://github.com/wangyangyangisme/NBaseUiKit) Qt编写的组件
+
+[NCommon](https://github.com/wangyangyangisme/NCommon) Qt编写的一些公共模块
+
+[NComputerInfo](https://github.com/wangyangyangisme/NComputerInfo)
+
+[NConfig](https://github.com/wangyangyangisme/NConfig)Qt 编写的基于加密sqlite的配置文件
+
+[NDBPool](https://github.com/wangyangyangisme/NDBPool) Qt 编写的数据库连接池组件
+
+[NEncryptionKit](https://github.com/wangyangyangisme/NEncryptionKit)Qt 加解密组件库
+
+[NLoger](https://github.com/wangyangyangisme/NLoger)Qt 编写的跨线程安装的日志组件库
 
 # [Qt官方]
 
@@ -92,6 +168,14 @@ qtwinmigrate
 
 [qt-imitation-360safe](https://github.com/wangyangyangisme/qt-imitation-360safe)
 
+[QNavigationWidget](https://github.com/wangyangyangisme/QNavigationWidget)
+
+[CuteHMI](https://github.com/wangyangyangisme/CuteHMI) C++ and QML
+
+[At](https://github.com/wangyangyangisme/At) At是基于Qt库的UI库
+
+[QCircuitFaultEditor](https://github.com/wangyangyangisme/QCircuitFaultEditor)
+
 
 
 # [界面框架]
@@ -138,7 +222,13 @@ qtwinmigrate
 
 [QtAV](https://github.com/wangyangyangisme/QtAV) A cross-platform multimedia framework based on Qt and FFmpeg
 
+[Qffmpeg](https://github.com/wangyangyangisme/Qffmpeg) QT FFmpeg Wrapper Class 
 
+[qffmpegplayer](https://github.com/wangyangyangisme/qffmpegplayer)
+
+[QFFMpeg-1](https://github.com/wangyangyangisme/QFFMpeg-1)
+
+[thumbnailme](https://github.com/wangyangyangisme/thumbnailme)
 
 
 
@@ -200,11 +290,31 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [vpaint](https://github.com/wangyangyangisme/vpaint) 2d动画编辑
 
+[Cuties](https://github.com/wangyangyangisme/Cuties) 文本编辑器
+
+[sqlitebrowser](https://github.com/wangyangyangisme/sqlitebrowser)
+
+[QtTetrix](https://github.com/wangyangyangisme/QtTetrix)
+
+[WtDesigner](https://github.com/wangyangyangisme/WtDesigner)
+
+[LibrePCB](https://github.com/wangyangyangisme/LibrePCB)
+
 
 
 # [IDE]
 
 [liteide](https://github.com/wangyangyangisme/liteide) LiteIDE is a simple, open source, cross-platform Go IDE
+
+[PropellerIDE-merge](https://github.com/wangyangyangisme/PropellerIDE-merge) （ [PropellerIDE](https://github.com/wangyangyangisme/PropellerIDE)[memorymap](https://github.com/wangyangyangisme/memorymap) [projectview](https://github.com/wangyangyangisme/projectview) [PropellerManager](https://github.com/wangyangyangisme/PropellerManager)）
+
+[uDevkit-IDE](https://github.com/wangyangyangisme/uDevkit-IDE)
+
+[Envision](https://github.com/wangyangyangisme/Envision) visual structured editor
+
+
+
+
 
 
 
@@ -246,7 +356,9 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [mongo-cxx-driver](https://github.com/wangyangyangisme/mongo-cxx-driver) C++ Driver for MongoDB
 
+[QOrmSql](https://github.com/wangyangyangisme/QOrmSql) MySQL and SQLite
 
+[qDBManager](https://github.com/wangyangyangisme/qDBManager)SQLite
 
 [QtRedisClient](https://github.com/wangyangyangisme/QtRedisClient) Redis在Qt下的封装 
 
@@ -254,7 +366,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 # [日志系统]
 
-[Log4Qt](https://github.com/wangyangyangisme/Log4Qt)
+[Log4Qt](https://github.com/wangyangyangisme/Log4Qt)（[Log4Qt-examples](https://github.com/wangyangyangisme/Log4Qt-examples)）
 
 [SimpleQtLogger](https://github.com/wangyangyangisme/SimpleQtLogger)
 
@@ -296,6 +408,10 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [QSslChat](https://github.com/wangyangyangisme/QSslChat)
 
+[qdjango](https://github.com/wangyangyangisme/qdjango) a Qt-based C++ web framework
+
+
+
 # [通信]
 
 [LAN_IM](https://github.com/wangyangyangisme/LAN_IM) QT4开发 
@@ -328,6 +444,12 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [libmodbus](https://github.com/wangyangyangisme/libmodbus) c语言
 
+[freeopcua](https://github.com/wangyangyangisme/freeopcua)
+
+
+
+
+
 # [控件]
 
 [QFlightInstruments](https://github.com/wangyangyangisme/QFlightInstruments) 飞机仪表盘
@@ -352,6 +474,10 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [QHexEdit](https://github.com/wangyangyangisme/QHexEdit) 
 
+[qhexedit2](https://github.com/Simsys/qhexedit2)
+
+[QCodeEditor](https://github.com/wangyangyangisme/QCodeEditor)
+
 [QPathEdit](https://github.com/wangyangyangisme/QPathEdit) 文件对话框
 
 [Qt-Inspector](https://github.com/robertknight/Qt-Inspector) 属性编辑
@@ -363,6 +489,12 @@ https://ftp.gnu.org/gnu/octave/windows/
 [QtKnobs](https://github.com/wangyangyangisme/QtKnobs) 圆形进度条
 
 [QtAddressBar](https://github.com/wangyangyangisme/QtAddressBar) 资源管理器
+
+[QtIPEdit](https://github.com/wangyangyangisme/QtIPEdit)在Qt上使用的IP输入框
+
+[Qt-Code-Editor](https://github.com/wangyangyangisme/Qt-Code-Editor)
+
+
 
 # [物理]
 
@@ -378,7 +510,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 # [解压缩]
 
-
+[QLib7z](https://github.com/wangyangyangisme/QLib7z)
 
 [quazip)](https://github.com/wangyangyangisme/quazip)
 
@@ -408,6 +540,14 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [QtXMLMap](https://github.com/wangyangyangisme/QtXMLMap) Simple wrap over Qt XML classes for easy working with XML documents.
 
+[mindforger](https://github.com/wangyangyangisme/mindforger)（[mindforger-repository](https://github.com/wangyangyangisme/mindforger-repository)）markdown编辑器
+
+[texstudio](https://github.com/wangyangyangisme/texstudio)  LaTeX editor
+
+[wv2qt](https://github.com/wangyangyangisme/wv2qt)Read Microsoft Word Document not xml based
+
+[RizekQssEditor](https://github.com/wangyangyangisme/RizekQssEditor) qss编辑器
+
 
 
 # [报表]
@@ -436,6 +576,8 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [udevnotifier](https://github.com/wangyangyangisme/udevnotifier) 在linux判断设备的热插拔
 
+[qdevicewatcher](https://github.com/wangyangyangisme/qdevicewatcher)在linux判断设备的热插拔
+
 [qt-notify](https://github.com/wangyangyangisme/qt-notify) 右下角通知，可同时显示多个
 
 [ShowRoundPic](https://github.com/wangyangyangisme/ShowRoundPic) 绘制无锯齿的圆形头像
@@ -456,9 +598,13 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [FramelessHelper-all](https://github.com/wangyangyangisme/FramelessHelper-all) linux window mac 
 
+[DragProxy](https://github.com/wangyangyangisme/DragProxy)移动和拖拽Qt无边框窗口的类
+
 [NTP_test](https://github.com/wangyangyangisme/NTP_test) NTP校正事件时间
 
 [flameshot](https://github.com/wangyangyangisme/flameshot) 强大的截屏工具
+
+[OEasyScreenshot](https://github.com/wangyangyangisme/OEasyScreenshot) 截屏工具
 
 [libcrashreporter-qt](https://github.com/wangyangyangisme/libcrashreporter-qt) 软件崩溃上报 基于Google Breakpad 
 
@@ -502,6 +648,10 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [qtpdfium](https://github.com/wangyangyangisme/qtpdfium) （ [pdfium](https://github.com/wangyangyangisme/pdfium) ）Pdf Redening on Qt 
 
+[mupdf](https://github.com/wangyangyangisme/mupdf)
+
+[mupdf-qt](https://github.com/wangyangyangisme/mupdf-qt)
+
 [qt-spek](https://github.com/wangyangyangisme/qt-spek) 基于Qt的频谱分析器，修改于spek
 
 [libsystemd-qt](https://github.com/wangyangyangisme/libsystemd-qt) Qt-only wrapper for Systemd DBus API linux
@@ -510,7 +660,21 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [QtJsonSerializer](https://github.com/wangyangyangisme/QtJsonSerializer) json数据序列化
 
+[checkofficetool](https://github.com/wangyangyangisme/checkofficetool)基于Qt检测office软件是否安装,是否打开等
 
+[focuswriter](https://github.com/wangyangyangisme/focuswriter)Simple fullscreen word processor
+
+[QConf](https://github.com/wangyangyangisme/QConf)QConf 是一个分布式配置管理工具 
+
+[CloudBackup](https://github.com/wangyangyangisme/CloudBackup)自动备份、文件监控、上传下载、资源分享、数据传输的多功能云备份工具
+
+
+
+[QEvent](https://github.com/wangyangyangisme/QEvent) 线程安全的信号槽
+
+[ImagePseudoColor](https://github.com/wangyangyangisme/ImagePseudoColor) 伪彩色处理程序
+
+[ilong](https://github.com/wangyangyangisme/ilong) 轻量级跨平台瓦片地图库
 
 # [输入法]
 
@@ -531,6 +695,10 @@ https://ftp.gnu.org/gnu/octave/windows/
 [MITK](https://github.com/wangyangyangisme/MITK) The Medical Imaging Interaction Toolkit.
 
 [QtOpenGL](https://github.com/wangyangyangisme/QtOpenGL)
+
+[cutegl](https://github.com/wangyangyangisme/cutegl)
+
+[ImageQt](https://github.com/wangyangyangisme/ImageQt)
 
 
 
