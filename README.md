@@ -446,7 +446,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [freeopcua](https://github.com/wangyangyangisme/freeopcua)
 
-
+[qextserialport](https://github.com/wangyangyangisme/qextserialport) 串口
 
 
 
@@ -548,7 +548,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [RizekQssEditor](https://github.com/wangyangyangisme/RizekQssEditor) qss编辑器
 
-
+[libiconv](https://github.com/wangyangyangisme/libiconv)
 
 # [报表]
 
